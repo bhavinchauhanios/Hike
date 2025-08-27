@@ -34,7 +34,9 @@ Hike/
 📸 Screenshots and Video
 <img width="350" height="758" alt="IMG_8148" src="https://github.com/user-attachments/assets/f57c93a6-c30a-4610-b742-4f007504f4cd" />
 <img width="350" height="758" alt="IMG_8149" src="https://github.com/user-attachments/assets/9bc99699-5714-4787-b533-07034956cb02" />
-https://github.com/user-attachments/assets/5f623b6f-d0ed-4da1-ad8d-ffeeaba70416
+
+https://github.com/user-attachments/assets/6e20c8d9-fb39-438a-a137-32091b2e955f
+
 
 🎯 Roadmap
 
